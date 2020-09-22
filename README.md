@@ -9,7 +9,7 @@ This application displays a "Send Email" button used to test if a device will ha
 
 ### Setup
 
-1. `git clone https://github.com/breadwallet/breadwallet-android.git`
+1. `git clone https://github.com/DrewCarlson/SendAnEmail.git`
 2. `./gradlew installDebug`
 3. Launch SendAnEmail
 
