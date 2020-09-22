@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SendAnEmail</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="next">Send Email</string>
+
+    <string name="hello_first_fragment">Is your phone smart enough?</string>
+</resources>
